@@ -41,6 +41,8 @@ Oussama KHALOUI (khao1201)\
 Matthieu TAILLEUR (taim1201)\
 Caroline WANG (wanc1101)\
 
+**Lien git :** https://github.com/KHALOUIoussama/TP1-IFT-870.git
+
 ## Références
 
 Références utilisées dans ce rapport
